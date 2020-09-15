@@ -21,7 +21,7 @@ def run():
   num = int(input("Enter a int:"))
   sum = sum_n(num)
   print("sum is "+str(sum)+".")
-  s = input("Enter a String:")
+  s = input("Enter a string: ")
   print_n(s,num)
 
 if __name__ =="__main__":
